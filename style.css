@@ -1,0 +1,45 @@
+nav {
+	background-color:blue;
+	color:white;
+	display:flex;
+	padding:1em;
+	text-align:center;
+	align-items:center;
+	justify-content:center;
+}
+
+nav a{
+	color:white;
+	margin:1em;
+	
+}
+
+ul{
+	list-style-type:none;
+	display:flex;
+}
+
+footer {
+	background-color:blue;
+	color:white;
+	padding:1em;
+	text-align:center;
+	bottom:0;
+	width:100%;
+	position:fixed;
+}
+
+form {
+	background-color:#333;
+	color:white;
+	padding:1em;
+	text-align:center;
+	
+}
+
+
+
+
+
+
+
